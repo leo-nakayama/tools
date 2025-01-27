@@ -95,3 +95,5 @@ Confirm your Git setup:
 
 $ git config --list
 This ensures that Git is properly configured for use with GitHub on the system.
+
+EOF
